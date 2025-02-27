@@ -1,5 +1,5 @@
 # Doubly Linked List Task Manager
----
+
 ### Overview
 This project implements a task manager using a doubly linked list (DLL). The task manager allows users to add, remove, and rearrange tasks efficiently. The project includes multiple operations that manipulate tasks based on priority and duration.
 
